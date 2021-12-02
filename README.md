@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **MkLahane/MkLahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,4 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to learn more skills and collaborate on projects related to web and game technologies.
 - 📫 I received a the Pitch Award for my senior project.
 - ⚡ Fun fact: I love watching movies and painting!
--->
+
